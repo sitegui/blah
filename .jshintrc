@@ -17,6 +17,7 @@
 	"camelcase": true,
 	"devel": true,
 	"freeze": true,
+	"esnext": true,
 	"-W033": true,
 	"-W058": true,
 	"globals": {}
