@@ -1,10 +1,5 @@
-# My Module
-
-Description
-
-## Install
-`npm install my-module --save`
+# Blah
+Generate new words based on a HTML file
 
 ## Usage
-
-Usage
+`node .` will output a small text with words generated from a .html file
